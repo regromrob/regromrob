@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Regina Robinson</h1>
 <h3 align="center">I’m a Software Engineer, proficient in both Frontend & Backend development. I have an extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.</h3>
 
-- 💬 Ask me about **New Girl or Greys Anatomy**
+- 💬 Ask me anything about **New Girl or Greys Anatomy**
 
 - 📫 How to reach me **romae31@gmail.com**
 
