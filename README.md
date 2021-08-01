@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Regina Robinson</h1>
 <h3 align="center">I’m a Software Engineer, proficient in both Frontend & Backend development. I have an extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.</h3>
 
-- 🔭 I’m currently working on a Full stack web app called **A GivingHand**
+- 🔭 I’m currently working on a Full stack web app called **A Giving Hand**
 
 - 🌱 I’m currently learning **React**
 
